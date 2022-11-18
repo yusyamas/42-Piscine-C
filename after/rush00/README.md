@@ -1,11 +1,6 @@
 Author:
     yusyamas (42Tokyo C Piscine 2022/10)
 
-Subject:
-    subjectフォルダのpdfがベース
-    ボーナス問題としてコマンドライン引数からx,yの入力を受け取る
-    ただし、あり得ないx,yについてはError出力をしなければならない
-
 Run:
     makeで自前のサンプルでの検証結果をoutputファイル内のsample.txtに書き出す
 
