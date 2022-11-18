@@ -1,5 +1,5 @@
 Author:
-    yusyamas (42Tokyo C Piscine 2022/10)
+    yusyamas (42Tokyo C Piscine 2022/10 Fail)
 
 Run:
     makeで自前のサンプルでの検証結果をoutputファイル内のsample.txtに書き出す
