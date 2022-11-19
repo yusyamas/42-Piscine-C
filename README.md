@@ -1,4 +1,4 @@
-# 42_C_Piscine
+# 42-Piscine-C
 
 Author: yusyamas (42Tokyo C Piscine 2022/10 Fail)
 
