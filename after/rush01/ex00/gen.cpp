@@ -40,7 +40,7 @@ int main(int argc, char **argv){
         for(int j = 0; j < n; j++){
             for(int i = 0; i < depth; i++){
                 if (grid[i][j] == perm[per][j])
-				    return 0;
+					return 0;
             }
         }
         return 1;
