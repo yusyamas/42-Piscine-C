@@ -1,12 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 #define all(x) x.begin(),x.end() 
-#define allr(x) x.rbegin(),x.rend() 
-
-int	my_atoi(char *c){
-    int digit_number = *c - '0';
-    return (digit_number);
-}
 
 int	my_factorial(int nb){
 	if (nb < 0)
@@ -19,7 +13,7 @@ int	my_factorial(int nb){
 }
 
 int main(int argc, char **argv){
-    int n = my_atoi(argv[1]);
+    int n = atoi(argv[1]);
     if (n < 2 || n > 5)
         return 1;
     int factn = my_factorial(n);
@@ -40,7 +34,7 @@ int main(int argc, char **argv){
         for(int j = 0; j < n; j++){
             for(int i = 0; i < depth; i++){
                 if (grid[i][j] == perm[per][j])
-					return 0;
+				    return 0;
             }
         }
         return 1;
