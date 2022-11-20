@@ -71,6 +71,12 @@ ABBBBBBBBC
 Warning XorY=0
 ##########zero_case : (x, y) = (0, 2)##########
 Warning XorY=0
+##########error_case : argc = 1 ##########
+Error
+##########error_case : argc = 2 ##########
+Error
+##########error_case : argc = 4 ##########
+Error
 ##########error_case : (x, y) = (10, -1)##########
 Error
 ##########error_case : (x, y) = (-7, 14)##########
@@ -120,6 +126,12 @@ CBBBBBBBBA
 Warning XorY=0
 ##########zero_case : (x, y) = (0, 2)##########
 Warning XorY=0
+##########error_case : argc = 1 ##########
+Error
+##########error_case : argc = 2 ##########
+Error
+##########error_case : argc = 4 ##########
+Error
 ##########error_case : (x, y) = (10, -1)##########
 Error
 ##########error_case : (x, y) = (-7, 14)##########
@@ -169,6 +181,12 @@ CBBBBBBBBC
 Warning XorY=0
 ##########zero_case : (x, y) = (0, 2)##########
 Warning XorY=0
+##########error_case : argc = 1 ##########
+Error
+##########error_case : argc = 2 ##########
+Error
+##########error_case : argc = 4 ##########
+Error
 ##########error_case : (x, y) = (10, -1)##########
 Error
 ##########error_case : (x, y) = (-7, 14)##########
@@ -218,6 +236,12 @@ o--------o
 Warning XorY=0
 ##########zero_case : (x, y) = (0, 2)##########
 Warning XorY=0
+##########error_case : argc = 1 ##########
+Error
+##########error_case : argc = 2 ##########
+Error
+##########error_case : argc = 4 ##########
+Error
 ##########error_case : (x, y) = (10, -1)##########
 Error
 ##########error_case : (x, y) = (-7, 14)##########
@@ -267,6 +291,12 @@ Error
 Warning XorY=0
 ##########zero_case : (x, y) = (0, 2)##########
 Warning XorY=0
+##########error_case : argc = 1 ##########
+Error
+##########error_case : argc = 2 ##########
+Error
+##########error_case : argc = 4 ##########
+Error
 ##########error_case : (x, y) = (10, -1)##########
 Error
 ##########error_case : (x, y) = (-7, 14)##########
