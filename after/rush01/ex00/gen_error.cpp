@@ -1,13 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int	my_atoi(char *c){
-    int digit_number = *c - '0';
-    return (digit_number);
-}
-
 int main(int argc, char **argv){
-    int n = my_atoi(argv[1]);
+    int n = atoi(argv[1]);
     if (n < 2 || n > 5)
         return 1;
     int len = 4 * n - 1;
