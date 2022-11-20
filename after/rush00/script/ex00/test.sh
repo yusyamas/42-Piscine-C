@@ -28,6 +28,12 @@ for i in $(find . -name 'rush0[0-4]');do
     $i 10 0
     echo "##########zero_case : (x, y) = (0, 2)##########"
     $i 0 2
+    echo "##########error_case : argc = 1 ##########"
+    $i
+    echo "##########error_case : argc = 2 ##########"
+    $i 10
+    echo "##########error_case : argc = 4 ##########"
+    $i 10 1 5
     echo "##########error_case : (x, y) = (10, -1)##########"
     $i 10 -1
     echo "##########error_case : (x, y) = (-7, 14)##########"
