@@ -1,0 +1,3 @@
+[submodule "after/BSQ_after"]
+	path = after/BSQ_after
+	url = https://github.com/yusyamas/BSQ_after.git
