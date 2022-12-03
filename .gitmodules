@@ -16,3 +16,6 @@
 [submodule "test/rush00_test"]
 	path = test/rush00_test
 	url = https://github.com/yusyamas/rush00_test.git
+[submodule "test/rush02_test"]
+	path = test/rush02_test
+	url = https://github.com/yusyamas/rush02_test.git
