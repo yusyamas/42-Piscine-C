@@ -7,3 +7,12 @@
 [submodule "after/rush01_after"]
 	path = after/rush01_after
 	url = https://github.com/yusyamas/rush01_after.git
+[submodule "test/rush01_test"]
+	path = test/rush01_test
+	url = https://github.com/yusyamas/rush01_test.git
+[submodule "test/BSQ_test"]
+	path = test/BSQ_test
+	url = https://github.com/yusyamas/BSQ_test.git
+[submodule "test/rush00_test"]
+	path = test/rush00_test
+	url = https://github.com/yusyamas/rush00_test.git
