@@ -1,3 +1,6 @@
 [submodule "after/BSQ_after"]
 	path = after/BSQ_after
 	url = https://github.com/yusyamas/BSQ_after.git
+[submodule "after/rush00_after"]
+	path = after/rush00_after
+	url = https://github.com/yusyamas/rush00_after.git
