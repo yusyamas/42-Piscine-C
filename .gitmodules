@@ -19,3 +19,39 @@
 [submodule "test/rush02_test"]
 	path = test/rush02_test
 	url = https://github.com/yusyamas/rush02_test.git
+[submodule "test/sh00_test"]
+	path = test/sh00_test
+	url = https://github.com/yusyamas/sh00_test.git
+[submodule "test/sh01_test"]
+	path = test/sh01_test
+	url = https://github.com/yusyamas/sh01_test.git
+[submodule "test/C00_test"]
+	path = test/C00_test
+	url = https://github.com/yusyamas/C00_test.git
+[submodule "test/C01_test"]
+	path = test/C01_test
+	url = https://github.com/yusyamas/C01_test.git
+[submodule "test/C02_test"]
+	path = test/C02_test
+	url = https://github.com/yusyamas/C02_test.git
+[submodule "test/C03_test"]
+	path = test/C03_test
+	url = https://github.com/yusyamas/C03_test.git
+[submodule "test/C04_test"]
+	path = test/C04_test
+	url = https://github.com/yusyamas/C04_test.git
+[submodule "test/C05_test"]
+	path = test/C05_test
+	url = https://github.com/yusyamas/C05_test.git
+[submodule "test/C06_test"]
+	path = test/C06_test
+	url = https://github.com/yusyamas/C06_test.git
+[submodule "test/C07_test"]
+	path = test/C07_test
+	url = https://github.com/yusyamas/C07_test.git
+[submodule "test/C08_test"]
+	path = test/C08_test
+	url = https://github.com/yusyamas/C08_test.git
+[submodule "test/C09_test"]
+	path = test/C09_test
+	url = https://github.com/yusyamas/C09_test.git
